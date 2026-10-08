@@ -1,12 +1,12 @@
-# apf-github-copilot-hands-on
+# github-copilot-hands-on
 AI活用&amp;改善活動「GithubCopilotハンズオン会」用のリポジトリです
 ## 前提
 CCoE提供のGithubおよびGithub Copilot環境を前提として説明します。他の環境の場合は適宜読み替えてください
 ## 事前準備
 ### 生成AI免許取得
 社内ルールとして「生成AI免許」の取得が必要です。以下教育を受講してください。詳細は[Github Copilot 利用者向けガイド](https://tmc-ccoe.atlassian.net/servicedesk/customer/portal/3/article/230195221)を参照ください。
-- [生成AI免許 for コーディング オンライン講座(要予約)](https://torotto-c.mx.toyota.co.jp/ai-education/course_list)
-- [生成AI免許試験 for コーディング](https://zamas.dig.toyota/)
+- 生成AI免許 for コーディング オンライン講座(要予約)
+- 生成AI免許試験 for コーディング
 ### Githubアカウント取得とGithub Copilotの有効化
 所属するCCoEプロジェクトの管理者にお願いしてGithubアカウントの作成とGithub Copilotの有効化を依頼してください。
 ## Quick Start in GitHub Codespaces
